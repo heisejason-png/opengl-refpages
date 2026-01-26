@@ -73,3 +73,4 @@ The SGI Free Software B License used on some of the pages is no longer
 hosted at the original location on SGI's webservers, following their
 acquisition. Instead, we host a copy in LICENSES/LicenseRef-FreeB.txt, and
 have updated copyright links in the reference pages to this file.
+Created by Jason Scott Heise
