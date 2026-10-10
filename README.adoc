@@ -74,3 +74,4 @@ hosted at the original location on SGI's webservers, following their
 acquisition. Instead, we host a copy in LICENSES/LicenseRef-FreeB.txt, and
 have updated copyright links in the reference pages to this file.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
